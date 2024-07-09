@@ -9,6 +9,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cpp)](https://skillicons.dev)
 
 
-## Developer Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,bootstrap,docker,django,flask,git,mysql,sqlite,opencv,tensorflow,wordpress,vercel)](https://skillicons.dev)
+<!--## Developer Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,bootstrap,docker,django,flask,git,mysql,sqlite,opencv,tensorflow,wordpress,vercel)](https://skillicons.dev) -->
 
