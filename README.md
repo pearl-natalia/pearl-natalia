@@ -5,6 +5,11 @@
 
 <!-- Source for widgets: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
+## Current Work
+I'm currently working on <a href="https://github.com/pearl-natalia/Siren/blob/master/README.md" style="text-decoration:none;">Siren</a>: an embedded AI to make automotive vehicles safer. I'm also experimenting with other areas of supervised learning! 
+
+[![Recent Experiment](https://img.shields.io/badge/Recent%20Experiment-grey?style=for-the-badge&logo=github)](https://github.com/pearl-natalia/Mathematical-OCR/blob/main/README.md)
+
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cpp,mysql)](https://skillicons.dev)
 
@@ -12,9 +17,8 @@
 <!--## Developer Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,bootstrap,docker,django,flask,git,mysql,sqlite,opencv,tensorflow,wordpress,vercel)](https://skillicons.dev) -->
 
-## Current Work
-I'm currently working on <a href="https://github.com/pearl-natalia/Siren/blob/master/README.md" style="text-decoration:none;">Siren</a>, an embedded AI to make automotive vehicles safer. I'm also experimenting with other areas of supervised learning! 
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
-[![Recent Experiment](https://img.shields.io/badge/Recent%20Experiment-grey?style=for-the-badge&logo=github)](https://github.com/pearl-natalia/Mathematical-OCR/blob/main/README.md)
+
 
 
