@@ -1,6 +1,6 @@
 
-<div align="left">
-<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pearl-natalia&layout=compact&card_width=333&theme=rose_pine&size_weight=0.4&count_weight=0.6)
+<!--<div align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pearl-natalia&layout=compact&card_width=333&theme=rose_pine&size_weight=0.4&count_weight=0.6" alt="Top Languages">
 </div>-->
 
 <!-- Source for widgets: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
