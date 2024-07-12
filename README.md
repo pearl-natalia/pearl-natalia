@@ -17,8 +17,6 @@ I'm currently working on <a href="https://github.com/pearl-natalia/Siren/blob/ma
 <!--## Developer Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,bootstrap,docker,django,flask,git,mysql,sqlite,opencv,tensorflow,wordpress,vercel)](https://skillicons.dev) -->
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-
 
 
 
