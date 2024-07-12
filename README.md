@@ -6,7 +6,7 @@
 <!-- Source for widgets: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cpp,mysql)](https://skillicons.dev)
 
 
 <!--## Developer Tools
