@@ -12,3 +12,10 @@
 <!--## Developer Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,bootstrap,docker,django,flask,git,mysql,sqlite,opencv,tensorflow,wordpress,vercel)](https://skillicons.dev) -->
 
+## Current Work
+I'm currently working on <a href="https://github.com/pearl-natalia/Siren/blob/master/README.md" style="text-decoration:none;">Siren</a>, an embedded AI  to make automotive vehicles safer. I'm also experimenting with other areas of supervised learning! 
+
+[![Recent Experiment](https://img.shields.io/badge/Recent%20Experiment-grey?style=for-the-badge&logo=github)]([URL](https://github.com/pearl-natalia/Mathematical-OCR/blob/main/README.md))
+
+
+
