@@ -6,7 +6,7 @@
 <!-- Source for widgets: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 ## Current Work
-I'm currently working on <a href="https://github.com/pearl-natalia/Siren/blob/master/README.md" style="text-decoration:none;">Siren</a>: an embedded AI to make automotive vehicles safer. I'm also experimenting with other areas of supervised learning! 
+I'm currently working on an<a href="https://github.com/pearl-natalia/RC-Car" style="text-decoration:none;"> autonomous RC car</a>. I'm also experimenting with other areas of supervised learning! 
 
 [![Recent Experiment](https://img.shields.io/badge/Recent%20Experiment-grey?style=for-the-badge&logo=github)](https://github.com/pearl-natalia/Mathematical-OCR/blob/main/README.md)
 
