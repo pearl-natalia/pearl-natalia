@@ -6,7 +6,7 @@
 <!-- Source for widgets: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
 
 ## Current Work
-Working on an<a href="https://github.com/pearl-natalia/RC-Car" style="text-decoration:none;"> autonomous RC car</a>. I'm also experimenting with other areas of supervised learning! 
+Experimenting with areas of supervised learning! 
 
 [![Recent Experiment](https://img.shields.io/badge/Recent%20Experiment-grey?style=for-the-badge&logo=github)](https://github.com/pearl-natalia/Mathematical-OCR/blob/main/README.md)
 
