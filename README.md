@@ -12,7 +12,7 @@
 ### **Current Work** 🧠
 - Interning @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on the backend of EHR infastructure
 - Building AI agents @ [Mimrr](https://www.mimrr.com/), a startup focused on automating developer tasks
-- Exploring self-driving software on the Perception team @ [WATonomous](https://www.watonomous.ca/) Design Team
+- Exploring self-driving car software on the Perception team @ [WATonomous](https://www.watonomous.ca/)
 
 ### **Project Preview** 🧩
 - Multimodal AI wearable: generates reports for emergency services ([View](https://devpost.com/software/group-123))
