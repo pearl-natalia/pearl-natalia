@@ -4,12 +4,12 @@
 </div>-->
 
 <!-- Source for widgets: https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
-# Hey, I'm Pearl! 👩🏻‍💻
+# Hey, I'm Pearl
 
 ### **I'm studying Software Engineering @ UWaterloo <img src="waterloo-logo.png" alt="UWaterloo Logo" width="18" style="vertical-align: botto;"/>**
 
 
-### **Current Work** 🧠
+### **Current Work** 💻
 - Interning @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on the backend of EHR infastructure
 - Building AI agents @ [Mimrr](https://www.mimrr.com/), a startup focused on automating developer tasks
 - Exploring self-driving car software on the Perception team @ [WATonomous](https://www.watonomous.ca/)
