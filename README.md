@@ -19,7 +19,7 @@
 - Component generation: recreates clicked UI components ([View](https://github.com/pearl-natalia/component-generation))
 - Low-Level Computer Vision: OCR implementation to calculate hand written equations ([View](https://www.pearlnatalia.com/projects/mathocr.html))
 
-### **You can view the rest of my portfolio at [pearlnatalia.com](https://www.pearlnatalia.com)**&nbsp;&nbsp;🔗 
+### **You can view the rest of my work at [pearlnatalia.com](https://www.pearlnatalia.com)**&nbsp;&nbsp;🔗 
 <!--- Embedded AI: AI-powered dash cam to monitor driving behavior ([View](https://www.pearlnatalia.com/projects/siren.html))-->
 
 <!--[![Recent Experiment](https://img.shields.io/badge/Recent%20Experiment-grey?style=for-the-badge&logo=github)](https://github.com/pearl-natalia/Mathematical-OCR/blob/main/README.md)-->
