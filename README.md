@@ -10,7 +10,7 @@
 
 
 ### **Current Work**&nbsp;&nbsp;🖥️
-- Interning @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on the backend of EHR infastructure
+- Interning @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on EHR infastructure
 - Building AI agents @ [Mimrr](https://www.mimrr.com/), a startup focused on automating developer tasks
 - Exploring self-driving car software on the Perception team @ [WATonomous](https://www.watonomous.ca/)
 
