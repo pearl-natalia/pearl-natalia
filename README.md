@@ -9,8 +9,8 @@
 ### **I'm studying Software Engineering @ UWaterloo&nbsp;&nbsp;<img src="waterloo-logo.png" alt="UWaterloo Logo" width="18" style="vertical-align: botto;"/>**
 
 
-### **Current Work**&nbsp;&nbsp;🖥️
-- Interning @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on EHR infastructure
+### **My Work**&nbsp;&nbsp;🖥️
+- Interned @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on EHR infastructure
 - Building AI agents @ [Mimrr](https://www.mimrr.com/), a startup focused on automating developer tasks
 - Exploring self-driving car software on the Perception team @ [WATonomous](https://www.watonomous.ca/)
 
