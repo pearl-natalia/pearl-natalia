@@ -10,7 +10,7 @@
 
 
 ### **My Work**&nbsp;&nbsp;🖥️
-- Building predictive models & AI Agents @ [The Globe and Mail](https://www.theglobeandmail.com/)
+- Built predictive models & AI Agents @ [The Globe and Mail](https://www.theglobeandmail.com/)
 - Interned @ [PointClickCare](https://pointclickcare.com/products/) as a SWE, working on EHR infastructure
 - Built AI agents @ [Mimrr](https://www.mimrr.com/), a startup focused on automating developer tasks
 - Exploring self-driving car software on the Perception team @ [WATonomous](https://www.watonomous.ca/)
